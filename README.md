@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1000" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif">
 
 <h1 align="center">Henloo 👋 I'm Katja, but everyone calls me Kapa</h1>
-<h3 align="center">A passionate software developer from Finland!</h3>
+<h3 align="center">A curious software developer from Finland!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
