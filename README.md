@@ -5,17 +5,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-- 🔭 I’m currently working on **my thesis project (not public yet)**
+- 🔭 I’m currently working on: _**my thesis project (not public yet)**_
 
-- 🌱 I’m currently learning **Modbus TCP/IP Client/Server constructs and Data Engineering**
+- 🌱 I’m currently learning: _**Modbus TCP/IP Client/Server constructs and Data Engineering**_
 
-- 👯 I’m looking to collaborate on **Data handling and C# codes**
+- 👯 I’m looking to collaborate on: _**Data handling and C# codes**_
 
-- 📫 How to reach me **Best way to reach is via my LinkedIn page - let's connect!**
+- 📫 How to reach me: _**Best way to reach is via my LinkedIn page - <a href="www.linkedin.com/in/katja-papinniemi">let's connect!</a>**_
 
-- 📄 Know about my experiences [I am currently working as a LIMS admin, with keen eye on business analyses & project management](I am currently working as a LIMS admin, with keen eye on business analyses & project management)
+- 📄 Know about my experiences: _**I am currently working as a LIMS admin, with a keen eye on business analyses & project management**_
 
-- ⚡ Fun fact **I put honey in my coffee**
+- ⚡ Fun fact: _**I put 🐝 honey 🍯 in my coffee ☕**_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
