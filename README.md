@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools I have worked with:</h3>
 
-<table style="width:100%, border: none">
+<table style="width:90%, border: none">
   <tr>
     <th>Languages</th>
     <th>Front-end</th> 
