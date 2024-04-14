@@ -3,7 +3,7 @@
 <h1 align="center">Henloo 👋 I'm Katja, but everyone calls me Kapa</h1>
 <h3 align="center">A curious software developer from Finland!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
 🔭 I’m currently working on my thesis project (not public yet).
 
@@ -15,12 +15,13 @@
 
 ⚡ I put 🐝 honey 🍯 in my coffee ☕
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapa77i&show_icons=true&locale=en&layout=compact" alt="kapa77i" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/katja-papinniemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katja-papinniemi" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapa77i&show_icons=true&locale=en&layout=compact" alt="kapa77i" /></p>
 
 <h3 align="left">Languages and Tools I have worked with:</h3>
 
