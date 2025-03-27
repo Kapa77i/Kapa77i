@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-🔭 I’m currently working on my thesis project (not public yet).
-
 🌱 Right now I’m learning Modbus TCP/IP Client/Server constructs and Data Engineering stuff.
 
 📫 The best way to reach me is via my LinkedIn page - <a href="www.linkedin.com/in/katja-papinniemi">let's connect!</a>
